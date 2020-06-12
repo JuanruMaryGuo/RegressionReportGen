@@ -15,4 +15,4 @@ Before you run the codes, plaese make sure you have installed the following pack
 8.	Numpy
 9.	Docx
 
-There is another thing to mention that your input file must by lined as Y X.
+There is another thing to mention that your input file must be lined as Y X.
